@@ -29,3 +29,5 @@ This is a very early release so it may contain many bugs. Don't hesitate to get 
 
 Texture by RonPepperMD
 Made with Level Imposer And coded with Bepinex and Reactor
+
+**🌟Leave a star**
