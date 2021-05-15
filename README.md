@@ -1,4 +1,5 @@
 # GreyskullKeep
+![greyskull_keep___1st_floor_by_ronpeppermd_db04s9v-fullview](https://user-images.githubusercontent.com/82299910/118365098-ed03ef00-b5b8-11eb-84e5-3dfbb5b623b8.jpg)
 
 This is an exact map of GreyskullKeep for Among Us
 Greyskull Keep - 1st floor
