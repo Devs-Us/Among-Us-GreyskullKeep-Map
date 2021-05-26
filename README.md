@@ -17,10 +17,6 @@ Simply unzip the file and add the those files in Among Us root directory folder.
 https://discord.gg/qxjrVQbVRg -- Get sneak peeks at new mods or updates and chat around!
 Also send the bugs of the mod in the server if you find any.
 
-## **💻|Youtube**
-
-Please consider subscribing as we make free among us maps.
-https://www.youtube.com/channel/UClIEFoSUvua3-mesNM639sA
 
 ## **⚠|WARNING!!!**
 
