@@ -30,3 +30,6 @@ Made with Level Imposer And coded with Bepinex and Reactor
 ## **🌟|Leave a star**
 
 This map took me a lot of time and effort. Please leave a star if you like it.
+
+
+**This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.**
